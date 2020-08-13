@@ -57,4 +57,5 @@ ui_down={
 
 [rendering]
 
+environment/default_clear_color=Color( 0.8, 0.898039, 1, 1 )
 environment/default_environment="res://default_env.tres"
